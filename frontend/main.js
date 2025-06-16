@@ -1,7 +1,7 @@
 // API endpoints
-const BASE_URL = "http://localhost:8091/usuarios";
-const BASE_RESERVA_URL = "http://localhost:8093/reservas";
-const BASE_SALA_URL = "http://localhost:8092/salas";
+const BASE_URL = "http://localhost/api/usuarios";
+const BASE_RESERVA_URL = "http://localhost/api/reservas";
+const BASE_SALA_URL = "http://localhost/api/salas";
 
 // Cache para armazenar listas de dados
 const dataCache = {
